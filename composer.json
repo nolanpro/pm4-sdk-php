@@ -1,7 +1,7 @@
 {
     "name": "nolanpro/pm4-sdk-php",
     "description": "No description provided",
-    "version":"1.0.0-RC1",
+    "version":"1.0.0-RC2",
     "keywords": [
         "openapitools",
         "openapi-generator",
